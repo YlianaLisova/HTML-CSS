@@ -1,0 +1,33 @@
+.target {
+    height: 30px;
+    background: rgb(148, 30, 30);
+    padding: 4px 0 4px 800px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    box-sizing: border-box;
+}
+.x {
+    height: 80px;
+    background: silver;
+    padding: 23px 23px;
+    box-sizing: border-box;
+}
+.xx {
+    height: 100px;
+    background: #66a3ff;
+    padding: 39px 20px 35px 0;
+    box-sizing: border-box;
+}
+.xxx {
+    height: 270px;
+    max-width: 250px;
+    background: rgb(105, 160, 50);
+}
+.xxxx {
+    background: rgb(133, 94, 148);
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+
+}

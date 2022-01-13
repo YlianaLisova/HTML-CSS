@@ -1,0 +1,68 @@
+.x {
+    height: 200px;
+    width: 200px;
+    background: rgb(218, 149, 22);
+    box-sizing: border-box;
+    padding: 92px 97px 97px 92px;
+    margin-bottom: 40px;
+    box-shadow: 20px 20px 2px rgb(71, 67, 67);
+
+}
+
+.xx {
+    height: 200px;
+    width: 200px;
+    background: rgb(218, 149, 22);
+    box-sizing: border-box;
+    padding: 92px 97px 97px 92px;
+    margin-bottom: 40px;
+    box-shadow: 20px 20px 6px rgb(71, 67, 67);
+
+
+}
+
+.xxx {
+    height: 200px;
+    width: 200px;
+    background: rgb(218, 149, 22);
+    box-sizing: border-box;
+    padding: 92px 97px 97px 92px;
+    margin-bottom: 40px;
+    box-shadow: 25px 25px 6px 7px rgb(71, 67, 67);
+
+}
+
+.xxxx {
+    height: 200px;
+    width: 200px;
+    background: rgb(218, 149, 22);
+    box-sizing: border-box;
+    padding: 92px 97px 97px 92px;
+    margin-bottom: 40px;
+    box-shadow: 25px 25px 6px 7px rgb(139, 139, 139);
+
+
+}
+
+.xxxxx {
+    height: 200px;
+    width: 200px;
+    background: rgb(218, 149, 22);
+    box-sizing: border-box;
+    padding: 92px 97px 97px 92px;
+    margin-bottom: 40px;
+    box-shadow: 22px 22px 5px 7px rgb(71, 67, 67);
+    border-radius: 4px;
+}
+
+.xxxxxx {
+    height: 200px;
+    width: 200px;
+    background: rgb(218, 149, 22);
+    box-sizing: border-box;
+    padding: 92px 97px 97px 92px;
+    margin-bottom: 40px;
+    box-shadow: 22px 22px 5px 7px rgb(139, 139, 139);
+    border-radius: 7px;
+
+}

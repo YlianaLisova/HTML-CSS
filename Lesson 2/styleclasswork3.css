@@ -1,0 +1,15 @@
+.x {
+    height: 220px;
+    width: 430px;
+    background: rgb(121, 121, 121);
+    margin: 100px 0 15px 3px;
+    box-shadow: -20px -30px 38px 10px rgb(211, 180, 142);
+}
+
+p {
+    margin: 0 0 0 3px;
+    border-left: 4px solid #fd0001;
+    padding-left: 20px;
+    font-size: 14pt;
+
+}
