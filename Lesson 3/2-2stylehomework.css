@@ -1,0 +1,44 @@
+#wrap {
+    height: 866px;
+    width: 492px;
+    margin-left: 550px;
+}
+
+#header {
+    height: 165px;
+    width: 400px;
+    background: #2269bb;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 65px;
+    font-size: 23px;
+}
+
+#container {
+    display: flex;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+#footer {
+    height: 165px;
+    width: 400px;
+    background: #2269bb;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 65px;
+    font-size: 23px;
+}
+
+.post {
+    height: 140px;
+    width: 126px;
+    background: #16457a;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    padding-top: 65px;
+    margin-right: 11px;
+}
