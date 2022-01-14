@@ -1,0 +1,57 @@
+#header {
+    height: 50px;
+    width: 248px;
+    background: #e5f6af;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: 1px solid #000001;
+}
+
+#menu {
+    height: 170px;
+    width: 65px;
+    box-sizing: border-box;
+    background: #fdb6fe;
+    text-align: center;
+    padding-top: 63px;
+    padding-left: 4px;
+    padding-right: 4px;
+    line-height: 2;
+    border: 1px solid #000001;
+}
+
+#container {
+    width: 248px;
+}
+
+.post {
+    height: 80px;
+    width: 171px;
+    box-sizing: border-box;
+    background: #9ee1fe;
+    border: 1px solid #000001;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+#footer {
+    height: 50px;
+    width: 248px;
+    box-sizing: border-box;
+    background: #ffffca;
+    border: 1px solid #000001;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
