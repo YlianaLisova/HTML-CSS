@@ -1,0 +1,38 @@
+#A {
+    height: 80px;
+    width: 340px;
+    background: #d9d9d9;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 30px;
+}
+#target {
+    height: 235px;
+    width: 340px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#wrap {
+    display: flex;
+    margin-top: 5px;
+}
+.B {
+    height: 150px;
+    width: 257px;
+    background: #d9d9d9;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 65px;
+}
+
+.C {
+    height:150px;
+    width: 78px;
+    background: #d9d9d9;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 5px;
+    padding-top: 65px;
+}
