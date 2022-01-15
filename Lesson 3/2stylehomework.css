@@ -1,0 +1,59 @@
+#Header {
+    height: 50px;
+    width: 400px;
+    background: #0c65a7;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+#Nav {
+    height: 40px;
+    width: 400px;
+    background: #124b78;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#Footer {
+    height: 40px;
+    width: 400px;
+    background: #7bcce2;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#wrap {
+    display: flex;
+}
+
+.Main {
+    height: 230px;
+    width: 290px;
+    background: #16a2c5;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    padding-top: 95px;
+    font-size: 20px;
+
+}
+
+.Aside {
+    height: 230px;
+    width: 110px;
+    background: #5275ad;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    padding-top: 95px;
+    font-size: 20px;
+}
