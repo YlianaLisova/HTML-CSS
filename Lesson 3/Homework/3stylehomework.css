@@ -1,0 +1,75 @@
+#container {
+    height: 450px;
+    width: 790px;
+    background: #06bcd4;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.wrap {
+    display: flex;
+}
+
+
+#container > div {
+    height: 93px;
+    width: 350px;
+    background: #fcfdfd;
+    box-sizing: border-box;
+    margin-bottom: 3px;
+    padding-top: 4px;
+    border-radius: 5px;
+
+}
+
+
+div > h5 {
+    margin: 0;
+    color: #ffa730;
+
+}
+
+div > p {
+    text-align: justify;
+    font-size: 11px;
+    margin-top: 6px;
+    margin-bottom: 9px;
+    width: 230px;
+}
+
+i {
+   font-size: 27px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 13px;
+
+}
+
+.target1 {
+    padding-left: 66px;
+}
+
+.target2 {
+    padding-left: 73px;
+}
+
+.target3 {
+    padding-left: 73px;
+}
+
+.target4 {
+    padding-left: 66px;
+}
+
+.target5 {
+    padding-left: 70px;
+}
+
+.target6 {
+    padding-left: 63px;
+}
