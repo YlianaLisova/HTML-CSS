@@ -19,36 +19,37 @@ h4 {
 i {
     font-size: 20px;
     padding-left: 65px;
+    margin-top: 8px;
 }
 .Service1 {
-    height: 210px;
+    height: 215px;
     width: 150px;
     box-sizing: border-box;
     box-shadow: 2px 1px 1px #e5e5e5;
 }
 
 .Service2 {
-    height: 210px;
+    height: 215px;
     width: 150px;
     box-sizing: border-box;
     box-shadow: 2px 1px 1px #e5e5e5;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .Service3 {
-    height: 210px;
+    height: 215px;
     width: 150px;
     box-sizing: border-box;
     box-shadow: 2px 1px 1px #e5e5e5;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .Service4 {
-    height: 210px;
+    height: 215px;
     width: 150px;
     box-sizing: border-box;
     box-shadow: 2px 1px 1px #e5e5e5;
-    padding-left: 10px;
+    margin-left: 15px;
 }
 
 p {
