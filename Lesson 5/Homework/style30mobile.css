@@ -80,6 +80,9 @@
 .number2 {
     flex-direction: column;
 }
+.number2-mobile {
+    display: none;
+}
 
 @media screen and (max-width: 600px) {
     .number1 {
@@ -102,12 +105,44 @@
     .number3 {
         column-gap: 0;
     }
+    .number2 {
+        display: none;
+    }
 
     .number4 {
-        column-gap: 0;
+        flex-direction: column;
+        width: 200px;
+    }
+
+    .bath {
+        width: 164px;
+        margin-right: 8px;
     }
 
     .number5 {
         width: 200px;
+    }
+    .number2-mobile {
+        display: flex;
+        column-gap: 8px;
+    }
+    .number-3-4 {
+        margin-left: 0;
+        width: 200px;
+    }
+    .store, .tools {
+        width: 96px;
+    }
+    .store {
+        padding-top: 8px;
+    }
+    .types {
+        width: 200px;
+    }
+    .related {
+        height: 88px;
+        width: 200px;
+        padding-top: 30px;
+        margin-top: 8px;
     }
 }
