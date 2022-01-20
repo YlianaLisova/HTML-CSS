@@ -1,0 +1,113 @@
+.h40 {
+    height: 40px;
+}
+
+.h220 {
+    height: 220px;
+}
+
+.h88 {
+    height: 88px;
+}
+
+.brg {
+    background: #676767;
+}
+
+.w70 {
+    width: 70px;
+}
+
+.w172 {
+    width: 172px;
+}
+
+.header {
+    width: 250px;
+}
+
+.display {
+    display: flex;
+}
+
+.col-gap-8 {
+    column-gap: 8px;
+}
+
+.row-gap-8 {
+    row-gap: 8px;
+}
+
+.number2 {
+    flex-direction: column;
+}
+
+.mar-t-8 {
+    margin-top: 8px;
+}
+
+.mar-l-8 {
+    margin-left: 8px;
+}
+
+.pad-t-10 {
+    padding-top: 10px;
+}
+
+.pad-t-35 {
+    padding-top: 35px;
+}
+
+.pad-t-100 {
+    padding-top: 100px;
+}
+
+.number5 {
+    height: 75px;
+    width: 328px;
+    padding-top: 25px;
+}
+
+.color-wh {
+    color: white;
+    text-align: center;
+}
+
+.box-size-border {
+    box-sizing: border-box;
+}
+
+.number2 {
+    flex-direction: column;
+}
+
+@media screen and (max-width: 600px) {
+    .number1 {
+        margin: 0;
+        column-gap: 0;
+        width: 200px;
+    }
+
+    .number-2-3-4 {
+        display: block;
+    }
+
+    .nav {
+        height: 40px;
+        width: 200px;
+        padding-top: 10px;
+        box-sizing: border-box;
+    }
+
+    .number3 {
+        column-gap: 0;
+    }
+
+    .number4 {
+        column-gap: 0;
+    }
+
+    .number5 {
+        width: 200px;
+    }
+}
