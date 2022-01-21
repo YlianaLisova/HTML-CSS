@@ -162,9 +162,17 @@
     display: none;
 }
 
+.box-div1-mobile {
+    display: none;
+}
+
 @media screen and (max-width: 992px) {
     .number1 {
         width: 300px;
+    }
+
+    .box-div1-mobile {
+        display: none;
     }
 
     .number2 {
@@ -229,15 +237,135 @@
         height: 110px;
         width: 130px;
     }
+
     .number7 {
         width: 303px;
     }
+
     .div7-top {
         width: 238px;
         padding-left: 15px;
         padding-right: 15px;
     }
+
     .div7-bottom {
         margin-left: 110px;
+    }
+}
+
+@media screen and (max-width: 754px) {
+    .number1 {
+        height: 60px;
+        width: 260px;
+    }
+
+    .box-div1 {
+        display: none;
+    }
+
+    .box-div1-mobile {
+        display: block;
+        height: 20px;
+        width: 240px;
+        background: #e6e6e7;
+        box-sizing: border-box;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 20px;
+    }
+
+    .number3 {
+        width: 260px;
+        height: 120px;
+    }
+
+    .div3 {
+        width: 240px;
+        height: 100px;
+    }
+
+    .number4 {
+        width: 260px;
+        height: 140px;
+    }
+
+    .boxes-div4 {
+        column-gap: 0;
+        box-sizing: border-box;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+
+    .div4 {
+        height: 50px;
+        width: 100px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .div-box5-1-mobile-2 {
+        display: none;
+    }
+
+    .div5 {
+        flex-direction: column;
+    }
+
+    .number5 {
+        width: 264px;
+    }
+
+    .div-box5 {
+        height: 40px;
+        width: 240px;
+        margin-left: 10px;
+
+
+    }
+
+    .div5-2 {
+        margin-top: 0;
+    }
+
+    .div5-bottom {
+        margin-left: 100px;
+    }
+
+    .div-box5-mobile {
+        margin-top: 0;
+    }
+
+    .number6-mobile {
+        width: 264px;
+        flex-direction: column;
+        height: 270px;
+    }
+
+    .div6 {
+        width: 240px;
+    }
+
+    .div6-big {
+        width: 240px;
+        height: 150px;
+    }
+
+    .number7 {
+        width: 264px;
+    }
+
+    .div7-top {
+        width: 200px;
+        margin-top: 10px;
+        height: 15px;
+    }
+
+    .div7-bottom {
+        margin-left: 100px;
+        height: 15px;
+    }
+
+    .number7 {
+        height: 60px;
     }
 }
